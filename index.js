@@ -1,4 +1,5 @@
-console.log("Welcome to Node.js");
+console.log("Welcome to Node.js ");
+
 
 const contacts = require("./contacts");
 const { Command } = require("commander");
